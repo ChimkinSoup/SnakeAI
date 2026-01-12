@@ -18,7 +18,7 @@ git clone https://github.com/ChimkinSoup/SnakeAI.git
 ``` Bash
 pip install -r requirements.txt
 ```
-3. Train the agaent
+3. Train the agent
 ``` Bash
 python src/agent.py
 ```
