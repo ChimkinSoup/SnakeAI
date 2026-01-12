@@ -1,5 +1,5 @@
 # SnakeAI
-A reinforcement-learning Snake agent that uses a simple DQN-style neural network (PyTorch) to learn and play a pygame-based Snake game, logging training progress and showing real-time improvement.
+A reinforcement-learning Snake agent that uses a simple DQN-style neural network to learn and play a pygame-based Snake game, logging training progress and showing real-time improvement.
 
 ## Features
 - Pygame Snake environment with rewards (+10 eat, -10 death, idle cap)
