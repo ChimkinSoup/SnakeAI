@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+.vscode/
+.env
+.venv/
+env/
+venv/
+model/
+training_plot.png
